@@ -44,3 +44,5 @@ Or a single URL
 ```
 >  echo https://www.example.com | ./GoogleAnalyticsToURL 
 ```
+
+![image](./img/GoogleAnalyticsToURL.png)
