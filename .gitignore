@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Laravel (PHP)
+/vendor/
+.env
+/.env.*
+/public/storage
+/storage/*.key
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+
+# Django (Python)
+*.sqlite3
+/db.sqlite3
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Flutter
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# JetBrains (IDE)
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Temporary files
+*.swp
+*~
+
+GoogleAnalyticsToURL
